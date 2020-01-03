@@ -1,4 +1,3 @@
-# FROM cern/cc7-base
 FROM centos:centos7
 
 EXPOSE 4440
